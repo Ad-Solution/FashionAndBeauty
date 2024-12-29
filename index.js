@@ -1,16 +1,16 @@
 // Dummy ad data
-const adData = [
-    {
-        id: 1,
-        category: '',
-        location: '',
-        price: '',
-        images: ['', '', '',''],
-        postedTime: '',
-        description: ''
-    },
+//const adData = [
+//    {
+ //       id: 1,
+ //       category: '',
+  //      location: '',
+   //     price: '',
+   //     images: ['', '', '',''],
+    //    postedTime: '',
+    //    description: ''
+  //  },
     
-];
+//];
 
 let filteredAds = [...adData];
 
