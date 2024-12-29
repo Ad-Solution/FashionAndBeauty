@@ -2,12 +2,12 @@
 const adData = [
     {
         id: 1,
-        category: 'clothing',
-        location: 'Colombo',
-        price: 'Rs. 1500.00',
-        images: ['img9.jpg', 'img9.jpg', 'img9.jpg','img9.jpg'],
-        postedTime: '2024-06-01',
-        description: 'This is a beautiful clothing item that is perfect for any occasion. Made from high-quality materials, it is both stylish and comfortable.'
+        category: '',
+        location: '',
+        price: '',
+        images: ['', '', '',''],
+        postedTime: '',
+        description: ''
     },
     
 ];
